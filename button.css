@@ -1,0 +1,13 @@
+.btn-blue {
+	background-color: #FFBCD1;
+	padding:  15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Varela Round', sans-serif;
+}
+.btn-blue:hover {
+	background-color: #C8F2EF;
+	color: black;
+	font-weight: bold;
+}
